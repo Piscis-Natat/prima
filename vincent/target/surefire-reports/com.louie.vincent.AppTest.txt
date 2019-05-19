@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.louie.vincent.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in com.louie.vincent.AppTest
+warning(junit.framework.TestSuite$1)  Time elapsed: 0.01 s  <<< FAILURE!
+junit.framework.AssertionFailedError: No tests found in com.louie.vincent.spelunca
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:100)
+
